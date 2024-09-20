@@ -1,5 +1,4 @@
 # Default
-setuptools>=67.0.0  # Ensure setuptools is installed
 hyperopt==0.2.7
 ipywidgets>=8
 matplotlib==3.7.1
